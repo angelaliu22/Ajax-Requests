@@ -1,0 +1,7 @@
+employees: [{firstName: "John", lastName: "Doe"}, {firstName: "Anna", lastName: "Smith"},…]
+0: {firstName: "John", lastName: "Doe"}
+1: {firstName: "Anna", lastName: "Smith"}
+2: {firstName: "Peter", lastName: "Jones"}
+
+
+{employees: [{firstName: "John", lastName: "Doe"}, {firstName: "Anna", lastName: "Smith"},…]}
